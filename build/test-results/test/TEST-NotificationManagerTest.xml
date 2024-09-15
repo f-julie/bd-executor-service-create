@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NotificationManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-15T17:03:26" hostname="DESKTOP-URGQT26" time="0.798">
+  <properties/>
+  <testcase name="sendSaleNotificationsOut_withListOfTasks_callsRunOnEach()" classname="NotificationManagerTest" time="0.798"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
